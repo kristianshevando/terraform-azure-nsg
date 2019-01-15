@@ -10,7 +10,7 @@
 ## Outputs
 
 | Name | Description |
-|------|-------------|----------|---------|
+|------|-------------|---------|
 | nsg-id | Network Security Group id. | |
 | nsg-name | Network Security Group name. | |
 
