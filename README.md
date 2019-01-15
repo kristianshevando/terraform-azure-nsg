@@ -11,6 +11,6 @@
 
 | Name | Description | Example |
 |------|-------------|----------|---------|
-| nsg-id | Network Security Group id | |
-| nsg-name | Network Security Group name | |
+| nsg-id | Network Security Group id. | |
+| nsg-name | Network Security Group name. | |
 
